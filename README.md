@@ -76,16 +76,17 @@ Faculty of Sciences, University of Lisbon | GPA: 15.6 | June 2023
 
 ### 🚀 **Projects**
 <p align="center">
-  <a href="https://github.com/franciscoAbreuTecnico/BPMN2SmartFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=BPMN2SmartFlow&theme=radical" alt="BPMN2SmartFlow"/>
+  <a href="https://github.com/TLMoto-Modelacao-e-Simulacao/Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TLMoto-Modelacao-e-Simulacao&repo=Website&theme=radical" alt="TLMoto Website"/>
+  </a>
+  <a href="https://github.com/vascomgameiro/Movie-Genre-Classification-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vascomgameiro&repo=Movie-Genre-Classification-Project&theme=radical" alt="Movie Genre Classification"/>
   </a>
   <a href="https://github.com/franciscoAbreuTecnico/PharmacIST">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=PharmacIST&theme=radical" alt="PharmacIST"/>
   </a>
-  <a href="https://github.com/franciscoAbreuTecnico/Software-Testing-and-Validation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=Software-Testing-and-Validation&theme=radical" alt="Software-Testing-and-Validation"/>
-  </a>
   <a href="https://github.com/franciscoAbreuTecnico/Software-Architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=Software-Architecture&theme=radical" alt="Software-Architecture"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=Software-Architecture&theme=radical" alt="Software Architecture"/>
   </a>
 </p>
+
