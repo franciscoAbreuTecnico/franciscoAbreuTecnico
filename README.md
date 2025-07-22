@@ -76,11 +76,16 @@ Faculty of Sciences, University of Lisbon | GPA: 15.6 | June 2023
 
 ### 🚀 **Projects**
 <p align="center">
-  <a href="https://github.com/franciscoAbreuTecnico/TLMoto-Modelacao-e-Simulacao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=TLMoto-Modelacao-e-Simulacao&theme=radical" alt="TLMoto"/>
+  <a href="https://github.com/franciscoAbreuTecnico/BPMN2SmartFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=BPMN2SmartFlow&theme=radical" alt="BPMN2SmartFlow"/>
   </a>
   <a href="https://github.com/franciscoAbreuTecnico/PharmacIST">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=PharmacIST&theme=radical" alt="PharmacIST"/>
   </a>
+  <a href="https://github.com/franciscoAbreuTecnico/Software-Testing-and-Validation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=Software-Testing-and-Validation&theme=radical" alt="Software-Testing-and-Validation"/>
+  </a>
   <a href="https://github.com/franciscoAbreuTecnico/Software-Architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=Softw
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoAbreuTecnico&repo=Software-Architecture&theme=radical" alt="Software-Architecture"/>
+  </a>
+</p>
